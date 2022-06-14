@@ -11,9 +11,10 @@ In this project, <mark> short project description </mark>
 <mark>Objectives in language that learners will understand</mark>
 
 You will:
-+ 
-+ 
-+
++ Choose a sensor to poll
++ Choose a way to display your reading
++ Make sure your project runs for less than 30sec
++ Submit your entry to Mission Zero or join up to the matching 
 
 <mark>Image of many different examples in a strip</mark>
 
